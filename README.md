@@ -62,6 +62,7 @@ After you've downloaded the file, add it to `data_loc.yaml` as
 ```
 path/to/liver_data.mat
 ```
+replacing the path with the true path on your system.
 
 ## Running the examples
 
