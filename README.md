@@ -5,15 +5,15 @@ for Image Reconstruction, given as an educational talk at the 2023 ISMRM Annual
 Meeting.
 
 At a high level the repository contains code for reconstructing GRASP data
-using modern PyTorch. The repository uses the GRASP data available at
-https://cai2r.net/resources/grasp-matlab-code/, which the user is expected to
-download separately.
+using modern PyTorch. The repository uses the
+[GRASP data](https://cai2r.net/resources/grasp-matlab-code/), which the user is
+expected to download separately.
 
 ## Installation
 
 These installation instructions require the use of Anaconda. First,
-go to the site at https://docs.conda.io/en/latest/miniconda.html and install
-miniconda. After that, you should be able to run the commands below.
+go to the [miniconda site](https://docs.conda.io/en/latest/miniconda.html) and
+install miniconda. After that, you should be able to run the commands below.
 
 First, create a new environment to use for the examples:
 ```bash
@@ -37,8 +37,9 @@ correctly in the notebook:
 conda update ffmpeg
 ```
 
-After that you can install PyTorch using the conda instructions at
-https://pytorch.org/get-started/locally/. Once you have PyTorch, you can
+After that you can
+[install PyTorch using the conda instructions](https://pytorch.org/get-started/locally/).
+Once you have PyTorch, you can
 install `torchkbnufft`
 ```bash
 pip install torchkbnufft
@@ -55,6 +56,7 @@ in the local files should be reflected when you use the package.
 ## Data configuration
 
 You'll first need to download the data from the following link:
+
 https://cai2r.net/resources/grasp-matlab-code/
 
 After you've downloaded the file, add it to `data_loc.yaml` as
