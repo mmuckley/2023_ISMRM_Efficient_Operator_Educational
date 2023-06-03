@@ -39,8 +39,7 @@ conda update ffmpeg
 
 After that you can
 [install PyTorch using the conda instructions](https://pytorch.org/get-started/locally/).
-Once you have PyTorch, you can
-install `torchkbnufft`
+Once you have PyTorch, you can install `torchkbnufft`
 ```bash
 pip install torchkbnufft
 ```
