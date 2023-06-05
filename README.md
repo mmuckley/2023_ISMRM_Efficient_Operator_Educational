@@ -15,7 +15,7 @@ These installation instructions require the use of Anaconda. First,
 go to the [miniconda site](https://docs.conda.io/en/latest/miniconda.html) and
 install miniconda. After that, you should be able to run the commands below.
 
-First, create a new environment to use for the examples:
+Create a new environment to use for the examples:
 ```bash
 conda create -n efficient-operator python=3.10
 ```
