@@ -1,6 +1,6 @@
 # Efficient Operators
 
-This repository contains code for the Efficien Forward (And Backward!) Models
+This repository contains code for the Efficient Forward (And Backward!) Models
 for Image Reconstruction, given as an educational talk at the 2023 ISMRM Annual
 Meeting.
 
