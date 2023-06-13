@@ -1,8 +1,8 @@
 # Efficient Operators
 
-This repository contains code for the Efficient Forward (And Backward!) Models
-for Image Reconstruction presentation, given as an educational talk at the 2023
-ISMRM Annual Meeting.
+This repository contains code for the "Efficient Forward (And Backward!) Models
+for Image Reconstruction" presentation, given as an educational talk at the
+2023 ISMRM Annual Meeting.
 
 At a high level the repository contains code for reconstructing GRASP data
 using modern PyTorch. The repository uses the
